@@ -1,0 +1,46 @@
+{
+  "name": "paper-drawer-panel",
+  "description": "A responsive drawer panel",
+  "authors": [
+    "The Polymer Authors"
+  ],
+  "keywords": [
+    "web-components",
+    "polymer",
+    "drawer",
+    "responsive",
+    "layout"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/PolymerElements/paper-drawer-panel.git"
+  },
+  "license": "http://polymer.github.io/LICENSE.txt",
+  "homepage": "https://github.com/PolymerElements/paper-drawer-panel",
+  "dependencies": {
+    "iron-media-query": "PolymerElements/iron-media-query#^1.0.0",
+    "iron-resizable-behavior": "PolymerElements/iron-resizable-behavior#^1.0.0",
+    "iron-selector": "PolymerElements/iron-selector#^1.0.0",
+    "polymer": "Polymer/polymer#^1.1.0"
+  },
+  "devDependencies": {
+    "iron-component-page": "PolymerElements/iron-component-page#^1.0.0",
+    "paper-button": "PolymerElements/paper-button#^1.0.0",
+    "paper-styles": "PolymerElements/paper-styles#^1.0.0",
+    "test-fixture": "PolymerElements/test-fixture#^1.0.0",
+    "web-component-tester": "polymer/web-component-tester#^3.4.0",
+    "webcomponentsjs": "webcomponents/webcomponentsjs#^0.7.0"
+  },
+  "main": "paper-drawer-panel.html",
+  "ignore": [],
+  "_release": "7120bd7a81",
+  "_resolution": {
+    "type": "branch",
+    "branch": "master",
+    "commit": "7120bd7a81e644d1d418022462e2393a02a24b17"
+  },
+  "_source": "git://github.com/Zecat/paper-drawer-panel.git",
+  "_target": "master",
+  "_originalSource": "Zecat/paper-drawer-panel",
+  "_direct": true
+}
